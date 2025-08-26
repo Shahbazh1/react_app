@@ -2,7 +2,7 @@ import React from 'react'
 
 const hero = () => {
   return (
-    <div>This is a Hero section</div>
+    <div>This is a Hero updated section</div>
   )
 }
 
